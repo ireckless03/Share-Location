@@ -1,7 +1,7 @@
 ## Location Finder App
 This is a small TypeScript application used to practice and learn more about TypeScript. The app allows users to search for locations and displays them on a map using the Google Maps API.
 
-![App Image](images/Screenshot 2023-07-17 at 3.57.04 PM.png)
+![App Image](https://github.com/ireckless03/Share-Location/blob/main/images/Screenshot%202023-07-17%20at%203.57.04%20PM.png)
 
 
 # Installation
@@ -10,16 +10,19 @@ To run this app locally, please follow these steps:
 1. Clone the repository.
 
 2. Install the dependencies by running the following command:
+
 `npm install`
 
 3. Obtain a Google Maps API key from the Google Cloud Console.
 
 4. Create a .env file in the project root directory and add your Google Maps API key in the following format:
+
 `GOOGLE_API_KEY=YOUR_API_KEY_HERE`
 
 5. Start the development server by running the following command: "npm start"
 
-6. Open your browser and navigate to 
+6. Open your browser and navigate to:
+
 `http://localhost:8080` 
 
 # Features
