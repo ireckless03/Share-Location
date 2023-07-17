@@ -35,13 +35,19 @@ To run this app locally, please follow these steps:
 
 # Libraries and Packages Used
 
-- axios: A promise-based HTTP client for making API requests.
-- @types/google.maps: TypeScript type definitions for the Google Maps API.
-- ts-loader: Webpack loader for compiling TypeScript files.
-- typescript: A superset of JavaScript that adds static typing to the language.
-- webpack: A module bundler used to bundle the JavaScript and other assets.
-- webpack-cli: Command-line interface for webpack.
-- webpack-dev-server: Development server that provides live reloading and other features for efficient development.
+- **axios**: A promise-based HTTP client for making API requests. In this project, axios was used to send HTTP requests to the Google Geocoding API to retrieve location coordinates based on the entered address.
+
+- **@types/google.maps**: TypeScript type definitions for the Google Maps API. It provided type information and autocomplete support for using the Google Maps API in TypeScript. This allowed for better type safety and improved development experience when working with Google Maps functionality in the project.
+
+- **ts-loader**: Webpack loader for compiling TypeScript files. ts-loader was used to transpile TypeScript code into JavaScript, enabling the project to be executed in the browser.
+
+- **typescript**:  A superset of JavaScript that adds static typing to the language. TypeScript was the primary programming language used in this project. It provided static typing, type checking, and other advanced language features, making the code more robust and maintainable.
+
+- **webpack**:  A module bundler used to bundle the JavaScript and other assets. Webpack was used to bundle all the project's dependencies and assets, such as JavaScript files, CSS stylesheets, and images. It helped optimize the project's performance and facilitated easy deployment.
+
+- **webpack-cli**: Command-line interface for webpack. webpack-cli provided a command-line interface to interact with webpack. It allowed for running build commands, configuring webpack, and managing the project's bundling process.
+
+- **webpack-dev-server**: Development server that provides live reloading and other features for efficient development. webpack-dev-server was used during development to serve the project locally. It enabled live reloading, meaning that any changes made in the code were automatically reflected in the browser without needing to manually refresh the page. This greatly improved the development workflow and productivity.
 
 # Future Improvements
 
