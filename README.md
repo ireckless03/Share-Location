@@ -3,7 +3,7 @@ This is a small TypeScript application used to practice and learn more about Typ
 
 ![App Image](https://github.com/ireckless03/Share-Location/blob/main/images/Screenshot%202023-07-17%20at%203.57.04%20PM.png)
 
-![Other examples]()
+![Other examples](https://github.com/ireckless03/Share-Location/blob/main/images/Screenshot%202023-07-17%20at%204.04.33%20PM.png)
 
 
 # Installation
